@@ -8,6 +8,4 @@ Is a team of created by ambitious entrepreneurs. We candidate for the election t
 - Participate in Charity.
 - Even more features to come soon!
 
-Website: https://troninvestgroup.org 
-Twitter: https://twitter.com/troninvestgroup 
-Medium: https://medium.com/@troninvestgroup
+Website: https://troninvestgroup.org
