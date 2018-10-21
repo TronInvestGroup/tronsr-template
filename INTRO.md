@@ -7,3 +7,16 @@ Is a team of created by ambitious entrepreneurs. We candidate for the election t
 - Fund upcoming startups on the Tron blockchain.
 - Participate in Charity.
 - Even more features to come soon!
+
+Website:
+https://troninvestgroup.org 
+
+Social networks:
+https://twitter.com/troninvestgroup 
+https://medium.com/@troninvestgroup 
+https://facebook.com/groups/troninvestgroup
+https://t.me/troninvestgroup_russia
+https://t.me/troninvestgroup_english
+https://t.me/troninvestgroup_espana
+https://t.me/troninvestgroup_korean
+https://t.me/troninvestgroup_german
