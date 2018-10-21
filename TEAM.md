@@ -1,5 +1,5 @@
-- Petr Kitautsev - Founders
-- Aleksandr Kulagin - Founders
+- Petr Kitautsev - Founder
+- Aleksandr Kulagin - Founder
 - Tychuk Pavel - Web-developer
 - Hannes Hanella - English Community Manager
 - Edwin Rojas- Spanish Community Manager
