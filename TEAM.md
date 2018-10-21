@@ -1,21 +1,8 @@
-## Founders
-Petr Kitautsev
-Aleksandr Kulagin
-
-## Web-developer
-Tychuk Pavel
-
-## English Community Manager
-Hannes Hanella
-
-## Spanish Community Manager
-Edwin Rojas
-
-## German Community Manager
-Timo
-
-## Korea Community Manager
-KJ Lee
-
-## Russian Community Manager
-Ilya Tararin
+Petr Kitautsev - Founders
+Aleksandr Kulagin - Founders
+Tychuk Pavel - Web-developer
+Hannes Hanella - English Community Manager
+Edwin Rojas- Spanish Community Manager
+Timo - German Community Manager
+KJ Lee - Korea Community Manager
+Ilya Tararin - Russian Community Manager
