@@ -1,14 +1,21 @@
-## Founder
+## Founders
+Petr Kitautsev
+Aleksandr Kulagin
 
-Name: [name]
-Role: [role]
+## Web-developer
+Tychuk Pavel
 
-## Team Member 1
+## English Community Manager
+Hannes Hanella
 
-Name: [name]
-Role: [role]
+## Spanish Community Manager
+Edwin Rojas
 
-## Team Member 2
+## German Community Manager
+Timo
 
-Name: [name]
-Role: [role]
+## Korea Community Manager
+KJ Lee
+
+## Russian Community Manager
+Ilya Tararin
