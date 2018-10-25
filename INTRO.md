@@ -8,13 +8,13 @@ Is a team of created by ambitious entrepreneurs. We candidate for the election t
 - Participate in Charity.
 - Even more features to come soon!
 
-**Social networks:**  
+Social networks:  
 https://troninvestgroup.org  
 https://twitter.com/troninvestgroup  
 https://medium.com/@troninvestgroup  
 https://facebook.com/groups/troninvestgroup  
 
-**Telegram groups:**  
+Telegram groups:  
 https://t.me/troninvestgroup_russia  
 https://t.me/troninvestgroup_english  
 https://t.me/troninvestgroup_espana  
