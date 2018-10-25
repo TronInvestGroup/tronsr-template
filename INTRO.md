@@ -8,5 +8,15 @@ Is a team of created by ambitious entrepreneurs. We candidate for the election t
 - Participate in Charity.
 - Even more features to come soon!
 
-Website: https://troninvestgroup.org  
-https://twitter.com/troninvestgroup 
+Social networks:  
+https://troninvestgroup.org  
+https://twitter.com/troninvestgroup  
+https://medium.com/@troninvestgroup  
+https://facebook.com/groups/troninvestgroup  
+
+Telegram groups:  
+https://t.me/troninvestgroup_russia  
+https://t.me/troninvestgroup_english  
+https://t.me/troninvestgroup_espana  
+https://t.me/troninvestgroup_korean  
+https://t.me/troninvestgroup_german  
