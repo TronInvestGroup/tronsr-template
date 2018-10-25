@@ -13,4 +13,4 @@ After election reward distribution:
  - 10% Server Support and Team Administration Costs.
  - 10% Investing in Startups, Charity Airdrops and Extra Features.
 
-#### Vote now to get the maximum amount of TIG!
+#### **Vote now to get the maximum amount of TIG!**
